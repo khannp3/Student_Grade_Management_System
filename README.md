@@ -1,7 +1,3 @@
-# compeng2sh4-lab3-starter
+Student Grade Manager
 
-Section: [L04]
-
-MacID: [khannp3]
-
-StudentID: [400336689]
+Aprogram that can manipulate different text files, extract student information, Calculate grades, and further deleted student record from database 
