@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "Questions.h"
+#include "Q.h"
 
 student **create_class_list(char *filename, int *sizePtr){
 
