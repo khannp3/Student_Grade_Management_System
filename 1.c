@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "Questions.h"
+#include "Q.h"
 
 char *my_strcat(const char * const str1, const char * const str2){
 
